@@ -17,3 +17,5 @@ DerivedData/
 .DS_Store
 *.log
 .env
+
+Fast API
